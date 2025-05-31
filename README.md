@@ -5,3 +5,4 @@ Windows MPV截图复制到剪贴板|Windows MPV copy screenshot to clipboard
 2. 将此脚本复制到MPV Scripts文件夹⸺%appdata%/mpv/scripts/或/portable_config/scripts/文件夹（portable_config文件夹位于mpv.exe所在目录)
 
 可以传参来指定nircmdc路径，这样就可以不将其加入PATH。比如mpv PathToTheVideo.mkv --script-opts=nircmdc_path="C:\Users\YourNane\Applications\nircmdc.exe"
+感谢这两位写的脚本带给我的思路：[clipshot.lua](https://github.com/ObserverOfTime/mpv-scripts/blob/master/clipshot.lua)、[screenshot-to-clipboard.js](https://github.com/zc62/mpv-scripts/blob/master/screenshot-to-clipboard.js)
