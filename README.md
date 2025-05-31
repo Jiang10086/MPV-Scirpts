@@ -1,6 +1,6 @@
 Windows MPV截图复制到剪贴板|Windows MPV copy screenshot to clipboard
 
-按下c键复制截图（带字幕），C键复制无字幕截图，每张截图都会以视频标题（如果有）或者视频文件名为文件名储存在截屏文件夹
+按下c键复制截图（带字幕），C键复制无字幕截图，每张截图都会以视频标题（如果有）或者视频文件名加截图时间点（精确到秒）为文件名储存在截屏文件夹
 ## 使用方法：
 1. 下载[CopyScreenshot.lua](https://github.com/Jiang10086/MPV-Scirpts/blob/main/CopyScreenshot.lua)
 2. 将CopyScreenshot.lua复制到MPV Scripts文件夹⸺%appdata%/mpv/scripts/或/portable_config/scripts/文件夹（portable_config文件夹位于mpv.exe所在目录)
